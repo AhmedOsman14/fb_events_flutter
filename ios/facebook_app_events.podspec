@@ -1,4 +1,4 @@
-sPod::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name             = 'facebook_app_events'
   s.version          = '0.0.2'
   s.summary          = 'Flutter plugin for Facebook Analytics and App Events'
